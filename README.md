@@ -38,5 +38,6 @@
  ## OUTPUT
  
  
- ## RESULT
+ ## RESULT[rosham exp 1.2.pdf](https://github.com/user-attachments/files/22977097/rosham.exp.1.2.pdf)
+
  Thus the given sketch is drawn and drafted using fusion 360 tool.
