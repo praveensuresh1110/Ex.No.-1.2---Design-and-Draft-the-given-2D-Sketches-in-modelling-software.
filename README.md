@@ -1,4 +1,4 @@
-# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+[ex 1.2 drawing.pdf](https://github.com/user-attachments/files/23167114/ex.1.2.drawing.pdf)# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -36,8 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+
  
- 
+ [ex 1.2 drawing.pdf](https://github.com/user-attachments/files/23167119/ex.1.2.drawing.pdf)
+
  ## RESULT[rosham exp 1.2.pdf](https://github.com/user-attachments/files/22977097/rosham.exp.1.2.pdf)
 
  Thus the given sketch is drawn and drafted using fusion 360 tool.
